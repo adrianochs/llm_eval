@@ -11,7 +11,7 @@ conda env create -f environment.yml
 ```
 Then, activate the environment:
 ```bash
-conda activate customer_discovery
+conda activate llm_eval
 ```
 ## Pre-commit Hooks
 To prevent the upload of Jupyter notebook output, please install the pre-commit hooks.
